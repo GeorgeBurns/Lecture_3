@@ -9,5 +9,6 @@ plt.title("Confusion over time at uni")
 plt.xlabel("Months")
 plt.ylabel("Confusion")
 plt.plot(x,y,z)
+plt.legend(["George","Micky"])
 plt.show()
 
